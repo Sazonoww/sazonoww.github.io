@@ -261,12 +261,7 @@ font-size: 18px;
     cursor: pointer;
 }
 
-.polych:hover{
-    font-size: 20px;
-    
-    
-    
-}
+
 
 .obch{
 background: rgba(255,255,255,0.1 );
@@ -318,11 +313,7 @@ text-shadow:0 0 9px #00c3ff;
    cursor: pointer;
     
 }
-.zagol:hover{
-   font-size: 19px; 
-    
-    
-}
+
 
 
 
@@ -767,7 +758,7 @@ margin-left: 110px;
 .cen:hover{
 
 color: black;
- font-size: 30px;
+
 
 }
 
